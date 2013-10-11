@@ -132,6 +132,8 @@ We encourage everyone to contribute their ideas, thoughts and code snippets. Thi
 
 1. The team member profile management screen within the WordPress admin.
 
+2. The team members displayed on the front-end with a little CSS to arrange in to columns.
+
 == Upgrade Notice =
 
 = 1.0.0 =
